@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Night Mode-->
+    <color name="colorPrimary">#33999999</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#0097A7</color>
+    <color name="colorToolbarBorder">#9EA7AA</color>
+    <color name="colorText">#FFFFFF</color>
+</resources>
